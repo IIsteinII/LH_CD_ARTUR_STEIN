@@ -1,6 +1,6 @@
 ## LIGHTHOUSE INDICIUM - Desafio Cientista de Dados
 
-**Passa a passo para execução dos arquivos:**
+**Passo a passo para execução dos arquivos:**
 
 1. Baixar os arquivos: *"desafio_indicium_imdb.csv"* e *"LH_CD_ARTUR.ipynb"*;
 2. Certificar as versões indicadas nos arquivos de requisitos;
